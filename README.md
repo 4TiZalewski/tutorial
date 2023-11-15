@@ -1,1 +1,3 @@
-# tutorial
+# Tutorial
+
+Jak działa Github?
